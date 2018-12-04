@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+    <meta name="description" content="Miners Raft, prodaja i dostava hrane, prodaja i dostava kraft piva, savski kej bb Novi Beograd">
+    <meta name="keywords" content="Miners Raft, prodaja i dostava hrane, prodaja i dostava kraft piva, savski kej bb Novi Beograd">
+    <title>Miners Raft</title>
+    <!-- for FF, Chrome, Opera -->
+    <link rel="icon" type="image/png" href="img/ico16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="img/ico32.png" sizes="32x32">
+    <!-- for IE -->
+    <link rel="icon" type="image/x-icon" href="img/ico32.png">
+    <link rel="shortcut icon" type="image/x-icon" href="img/ico32.png" />
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link href="css/responsive.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="css/viewbox.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--[if IE]><style type="text/css">.pie {behavior:url(PIE.htc);}</style><![endif]-->
+    <script type="text/javascript" src="js/jquery-3.0.0.js"></script>
+    <script src="js/jquery.viewbox.min.js"></script>
+    <script src="js/jquery.viewbox.js"></script>
+    <script src="js/responsiveslides.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
+    <script src='https://www.google.com/recaptcha/api.js?hl=sr'></script>
+    <!--[if lt IE 6]>
+    <script src="js/respond-1.1.0.min.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/html5element.js"></script>
+<![endif]-->
+</head>
+
+<body>
+    <div class="logo" id="pocetna">
+        <img src="banner_background/Logo01.png" alt="" class="logoimg"/>
+        <div class="burger_container">
+        </div>
+        <div class="basketNavMenu">
+            <a href="index.html">
+        <p class='homeLink'>NAZAD NA POČETNU</p>
+      </a>
+        </div>
+    </div>
+    <div class="basketHolder">
+        <div class="basketWrapper">
+            <div class="basketHeader">
+                <div class="product">
+                    <h1>PROIZVOD</h1>
+                </div>
+                <div class="verticalLine"></div>
+                <div class="quantity">
+                    <h1>KOLIČINA</h1>
+                </div>
+                <div class="verticalLine"></div>
+                <div class="price">
+                    <h1>CENA</h1>
+                </div>
+                <div class="verticalLine"></div>
+                <div class="sum">
+                    <h1>UKUPNO</h1>
+                </div>
+            </div>
+        </div>
+        <div class="popUpHolder">
+            <img class='closeButton' src="img/close_button.png" onclick="closeOrderPopUp()">
+            <p class='closeParagraph' onclick="closeOrderPopUp()">zatvori</p>
+            <div id="orderPopup">
+                <input id="firstnameInput" type="text" name="firstname" placeholder="Ime" required="true"><br>
+                <input id="phoneNumberInput" type="text" name="number" placeholder="Broj Telefona" required="true"><br>
+                <input id="adressInput" type="text" name="adress" placeholder="Adresa" required="true"><br>
+                <input id="noteInput" type="text" name="note" placeholder="Napomena" required="false"><br>
+ 
+                <button name="dd" id="submitButton" onclick="orderSubmit()">NARUČI</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

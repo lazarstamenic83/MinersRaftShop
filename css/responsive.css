@@ -1,0 +1,684 @@
+
+
+@media only screen and (min-width: 1281px) {
+	/* Nav Menu */
+.menu{display: block !important;}
+    /* Nav Menu */
+.beerShopBtn{margin-left: 18px;}
+}
+@media only screen and (min-width: 1281px) and (max-width: 1600px) {
+.map_holder{height:455px;width:550px;float: right;margin-top: 145px;margin-right: 100px;}
+#map{height:400px;width:550px;}
+.adress{height: 54px;width: 500px;margin-top: 0px;float: left;margin-left: 25px;}
+.adress_1{margin-left: 0px;}
+.beerShopBtn{margin-left: 18px;}
+}
+@media only screen and (min-width: 992px) and (max-width: 1280px) {
+	/* Nav Menu */
+.menu{display: block !important; margin: auto; width: 700px;height: 60px;}
+.menu div{width: 116px;height: 60px;}
+.menu_holder{height: 60px;width: 100%;}
+.logoimg{margin-top: 10px;margin-left: 10px;height: 130px;width: 130px;}
+.menu h1{font-size: 16px; margin-top: 22px;letter-spacing: 3px;}
+#naruci i{font-size: 16px;margin-top: 22px;margin-left: -2px;}
+#naruci h1{margin-left: 18px;margin-top: 0px;}
+    /* Nav Menu */
+	
+	/* food */
+#burger{height: auto; width:82%; margin-top: 20px; margin-left: 20px;}
+#onion{height:auto; width: 80%; margin-top: 5px; margin-left: 20px;}
+#drpano{height:auto; width:80%; margin-top: 40px; margin-left: 20px;}
+#kobaje{height:auto; width:90%; margin-top: 45px; margin-left: 10px;}
+#krilca{height:auto; width:80%; margin-top: 50px; margin-left: 20px;}
+.shoppingButton{margin-left: 35px;}
+.foodName{font-size: 14px;}
+.fooddescript{width: 200px;margin-top: 180px;}
+.food{width: 100%;height: auto;}
+.foodwraper{width: 700px;height: auto;margin: auto;margin-top: 40px;}
+.foodcontainer{width: 200px;margin: auto;height: 240px;display: inline-block;margin-left: 45px;margin-top: 5px;}
+
+
+.foodcontainer:nth-child(4){margin-top: 10px;}
+.foodcontainer:nth-child(5){margin-top: 10px;}
+.foodcontainer:nth-child(6){margin-top: 10px;}
+.foodcontainer:nth-child(7){margin-top: 10px;margin-left: 0px;}
+
+
+	/* food */
+	
+	/* prilozi */
+.prilozi{width: 100%;height: 580px;}
+.priloziwraper{width: 700px;height: 380px;margin: auto;margin-top: 50px;}
+.prilozicontainer{width: 200px;margin: auto;height: 220px;display: inline-block;margin-left: 44px;margin-top: 50px;}
+
+.prilozidescript{width: 200px;height: 45px;margin-top: 175px;}
+	/* prilozi */
+	
+	
+
+.beer{width: 100%; height: auto;}
+.beercontainer{width: 200px;height: 320px;display: inline-block;margin-left: 45px;}
+
+.beercontainer:nth-child(4){margin-left: 0px;margin-top: 15px;}
+.beercontainer:nth-child(5){margin-top: 15px;}
+.beercontainer:nth-child(6){margin-top: 15px;}
+
+
+.beercontainer h2{font-size: 14px;margin-top: 12px;}
+.beerdescript{width: 200px;height: 50px;position: absolute;margin-top: 250px; }
+.beerwraper{width: 700px;height: auto;margin: auto;margin-top: 20px; margin-bottom: 20px;}
+#beer1{width:90px;margin-left: 70px;}
+#beer2{width:58px;margin-left: 70px;}
+#beer3{width:58px; margin-top: 10px; margin-left: 70px;}
+#beer4{width: 64px;margin-left: 66px;}
+#beer5{width: 59px;margin-left: 70px;}
+#beer6{width:60px; margin-left: 70px;}
+.bigFlyer{display: block;margin-top: 40px !important;margin: auto;width: 60%;height: auto;margin-bottom: 40px;}
+/* akcije */
+
+.akcije{width: 100%;height: auto;overflow: hidden;}
+.akcijawrapper{width: 704px;height: 290px;margin: auto;margin-top: 20px;}
+.akcijawrapper div{width: 172px;height: 288px;display: inline-block;margin-left: -1px;margin-top: 1px;}
+.akcija{background-image: none;}
+.akcija1{background-image: none;}
+.akcija2{background-image: none;}
+.akcija3{background-image: none;}
+.akcijamobile, .akcijamobile1, .akcijamobile2, .akcijamobile3{ width: 175px;height: auto;display: block;margin-top: 0px;margin-left: 0px;} 
+	/* akcije */
+	
+		/* footer */
+.to_top{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.order_number{display: block;width: 160px;height: 50px;position: absolute; margin-top: 80px; margin-bottom: 20px; margin-left: 80px;}
+.order_number h4{font-size: 24px;}
+.order_number p{font-size: 24px;}
+.social_media{height: 80px;width: 110px;margin: auto;margin-top: 240px;position: relative; margin-bottom: 20px;}
+#map{height:520px;width:800px;overflow: hidden;}
+.map_holder{height:565px;width:800px;overflow: hidden;float: none;margin: auto;}
+.adress{height: 54px;width: 700px;margin-top: 0px;float: left;}
+.adress_1{font-size: 44px;float: left;text-align: center;letter-spacing: 4px;margin-left: 80px; margin-top: 5px;}
+.adress_descript{font-size: 34px;float: left;letter-spacing: 4px;margin-top: 14px;margin-left: 0px;}
+.sticker{height: 200px;width: 200px;background-size: cover;position: relative;float: right; margin-top: 30px; margin-right: 60px;}
+.footer{height: 950px;}
+
+}
+  
+@media only screen and (min-width: 768px) and (max-width: 991px) {  
+/* Nav Menu */
+.menu h1{font-size: 14px; margin-top: 22px;letter-spacing: 2px;}
+.menu div{width: 102px;height: 60px;}
+.menu{width: 620px;height: 60px; display: block !important;}
+.menu_holder{height: 60px;}
+#naruci i{font-size: 16px;margin-top: 22px;margin-left: -2px;}
+#naruci h1{margin-left: 14px;margin-top: 0px;}
+
+#basketLink{height: 70px;width: 70px;margin-top: 40px;margin-left: 86%;}
+#basketLink h1{font-size: 15px;margin-left: 3px;}
+#basketLink i{margin-top: 26px;}
+
+
+
+	/* Nav Menu */
+	
+	/* slider */
+.main-slider{margin-top: 0px;}
+	/* slider */
+	
+	/* food */
+.foodheader{width: 100%;height: 80px;background-size: 110%;background-position: center;}
+.food{width: 100%;height: auto;}
+.foodheader h1{margin-left: 10px;margin-top: 20px;font-size: 16px;}
+.logoimgsmall{margin-top: -50px;margin-right: 10px;height: 60px;width: 60px;}
+.logoimg{margin-top: 10px;margin-left: 10px;height: 70px;width: 70px;}
+.foodheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.foodwraper{width: 700px;height: auto;margin: auto;margin-top: 20px;}
+.foodcontainer{width: 200px;margin: auto;height: 240px;display: inline-block;margin-left: 45px;margin-top: 5px;}
+
+.foodcontainer:nth-child(4){margin-top: 10px;}
+.foodcontainer:nth-child(5){margin-top: 10px;}
+.foodcontainer:nth-child(6){margin-top: 10px;}
+.foodcontainer:nth-child(7){margin-top: 10px;margin-left: 0px;}
+
+
+.shoppingButton{margin-left: 35px;}
+.foodName{font-size: 14px;}
+
+#burger{height: auto; width:80%; margin-top: 20px; margin-left: 20px;}
+#onion{height:auto; width: 80%; margin-top: 5px; margin-left: 20px;}
+#drpano{height:auto; width:80%; margin-top: 40px; margin-left: 20px;}
+#kobaje{height:auto; width:90%; margin-top: 45px; margin-left: 10px;}
+#krilca{height:auto; width:80%; margin-top: 50px; margin-left: 20px;}
+.fooddescript{width: 200px;margin-top: 180px;}
+	/* food */
+	
+	/* prilozi */
+
+.priloziheader{width: 100%;height: 80px;background-size: 150%;background-position: center;}
+.priloziheader h1{margin-left: 10px;margin-top: 20px;font-size: 16px;}
+.priloziheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.prilozi{width: 100%;height: 580px;}
+.priloziwraper{width: 700px;height: 580px;margin: auto;margin-top: 0px;}
+.prilozicontainer{width: 200px;margin: auto;height: 220px;display: inline-block;margin-left: 44px;margin-top: 130px;}
+.prilozicontainer h2{font-size: 14px;margin-top: 12px;}
+.prilozidescript{width: 200px;margin-top: 180px;}
+.prilozi_price{margin-top: -10px;font-size: 14px;}
+.prilozidescript{width: 200px;height: 45px;margin-top: 175px;}
+	/* prilozi */
+	
+	/* piva */
+.beerheader{width: 100%;height: 80px;background-size: 150%;background-position: center;}
+.beerheader h1{margin-left: 10px;margin-top: 20px;font-size: 16px;}
+.beerheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.beer{width: 100%; height: auto;}
+.beercontainer{width: 200px; height: 320px;display: inline-block;margin-left: 45px; margin-top: 30px;}
+.beercontainer:nth-child(4){margin-left: 0px;}
+.beercontainer h2{font-size: 14px;margin-top: 12px;}
+.beerdescript{width: 200px;height: 50px;position: absolute;margin-top: 250px;}
+.beerwraper{width: 700px;height: 720px;margin: auto;margin-top: 0px;}
+#beer1{width:90px;margin-left: 70px;}
+#beer2{width:58px;margin-left: 70px;}
+#beer3{width:58px; margin-top: 10px; margin-left: 70px;}
+#beer4{width: 64px;margin-left: 66px;}
+#beer5{width: 59px;margin-left: 70px;}
+#beer6{width:60px; margin-left: 70px;}
+
+.beercontainer:nth-child(4){margin-left: 0px;margin-top: 15px;}
+.beercontainer:nth-child(5){margin-top: 15px;}
+.beercontainer:nth-child(6){margin-top: 15px;}
+	/* piva */
+	
+	/* akcije */
+
+.bigFlyer{
+	display: block;
+	margin-top: 40px !important;
+	margin: auto;
+	width: 60%;
+	height: auto;
+	margin-bottom: 40px;
+}
+.akcijeheader{width: 100%;height: 80px;background-size: 150%;background-position: center;}
+.akcijeheader h1{margin-left: 10px;margin-top: 20px;font-size: 16px;}
+.akcijeheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.akcije{width: 100%;height: auto;overflow: hidden;}
+.akcijawrapper{width: 700px;height: auto;margin: auto;margin-top: 20px;}
+.akcijawrapper div{width: 169px;height: 288px;display: inline-block;margin-left: 2px;margin-top: 1px;}
+.akcija{background-image: none;}
+.akcija1{background-image: none;}
+.akcija2{background-image: none;}
+.akcija3{background-image: none;}
+.akcijamobile, .akcijamobile1, .akcijamobile2, .akcijamobile3{ width: 175px;height: auto;display: block;margin-top: 0px;margin-left: 0px;} 
+	/* akcije */
+	
+	/* footer */
+.to_top{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.order_number{display: block;width: 160px;height: 50px;position: absolute; margin-top: 80px; margin-bottom: 20px; margin-left: 80px;}
+.order_number h4{font-size: 24px;}
+.order_number p{font-size: 24px;}
+.social_media{height: 80px;width: 110px;margin: auto;margin-top: 240px;position: relative; margin-bottom: 20px;}
+#map{height:330px;width:700px;overflow: hidden;}
+.map_holder{height:395px;width:700px;float: none;margin: auto;}
+.adress{height: 54px;width: 700px;margin-top: 0px;float: left; margin-left: 0px;}
+.adress_1{font-size: 44px;float: left;text-align: center;letter-spacing: 4px;margin-left: 90px; margin-top: 5px;}
+.adress_descript{font-size: 34px;float: left;letter-spacing: 4px;margin-top: 14px;margin-left: 0px;}
+.sticker{height: 200px;width: 200px;background-size: cover;position: relative;float: right; margin-top: 30px; margin-right: 60px;}
+.footer{height: 750px;}
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+/* Nav Menu */
+.menu h1{font-size: 14px; margin-top: 12px;letter-spacing: 3px;}
+.menu{width: 100%;height: 200px; display: none; position: absolute;}
+.menu div{width: 100%;height: 40px; background-color: black;}
+.menu_holder{width: 100%;height: 280px;background-image: none;}
+.burger_container{display: block; background-color: black;}
+.burger_container img{height: 30px; width: 30px; margin-top: 10px; margin-right: 10px; float: right;}
+
+#naruci i{font-size: 19px;}
+#naruci h1{display: block; width: 140px; margin: auto; height: 20px; margin-top: 5px; float: none;}
+
+
+#basketLink{height: 60px;width: 60px;margin-top: 50px;margin-left: 2px;}
+#basketLink h1{font-size: 12px;margin-left: 5px;}
+#basketLink i{margin-top: 22px;}
+	/* Nav Menu */
+
+	/* slider */
+#big{margin-top: 50px;}
+	/* slider */
+	
+	/* food */
+.foodheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.food{width: 100%;height: auto;}
+.foodheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.logoimgsmall{margin-top: -45px;margin-right: 10px;height: 50px;width: 50px;}
+.logoimg{margin-top: 0px;margin-left: 10px;height: 50px;width: 50px;}
+.foodheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.foodwraper{width: 400px;height: auto;margin: auto;margin-top: 20px;}
+.foodcontainer{width: 197px;margin: auto;height: 240px;display: inline-block;margin-left: 0px;margin-top: 5px;}
+.shoppingButton{margin-left: 35px;}
+.foodName{font-size: 14px; }
+.basketNavMenu{margin-top: -50px;}
+
+#burger{height: auto; width:80%; margin-top: 20px; margin-left: 20px;}
+#onion{height:auto; width: 75%; margin-top: 15px; margin-left: 20px;}
+#drpano{height:auto; width:80%; margin-top: 40px; margin-left: 20px;}
+#kobaje{height:auto; width:90%; margin-top: 45px; margin-left: 10px;}
+#krilca{height:auto; width:80%; margin-top: 50px; margin-left: 20px;}
+.fooddescript{width: 198px;margin-top: 180px;}
+
+
+	/* food */
+	
+	/* prilozi */
+
+.priloziheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.priloziheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.priloziheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.prilozi{width: 100%;height: auto;}
+.priloziwraper{width: 400px;height: auto;margin: auto;margin-top: 20px; margin-bottom: 20px;}
+.prilozicontainer{width: 196px;margin: auto; height: 240px;display: inline-block;margin-left: 0px;margin-top: 5px;}
+.prilozicontainer h2{font-size: 14px;margin-top: 12px;}
+.prilozidescript{width: 200px;margin-top: 180px;}
+.prilozi_price{margin-top: -10px;font-size: 14px;}
+.prilozidescript{width: 198px;height: 45px;margin-top: 175px;}
+	/* prilozi */
+	
+	/* piva */
+.beerheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.beerheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.beerheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.beer{width: 100%;height: auto;}
+.beercontainer{width: 196px; height: 320px;display: inline-block; margin-left: 0px;}
+.beercontainer h2{font-size: 14px;margin-top: 12px;}
+.beerdescript{width: 198px;height: 70px; position: absolute;margin-top: 250px;}
+.beerwraper{width: 400px;height: auto;margin: auto; margin-top: 20px; margin-bottom: 20px;}
+#beer1{width:90px;margin-left: 70px;}
+#beer2{width:58px;margin-left: 70px;}
+#beer3{width:58px; margin-top: 10px; margin-left: 70px;}
+#beer4{width: 64px;margin-left: 66px;}
+#beer5{width: 59px;margin-left: 70px;}
+#beer6{width:60px; margin-left: 70px;}
+	/* piva */
+	
+	/* akcije */
+.bigFlyer{display: none;}
+.mobFlyer{display: block;margin-top: 20px !important;width: 90%; margin: auto; margin-bottom: 20px;}
+.
+
+akcijeheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.akcijeheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.akcijeheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.akcije{width: 100%;height: auto;overflow: hidden;}
+.akcijawrapper{width: 400px;height: auto;margin: auto;margin-top: 20px;}
+.akcijawrapper div{width: 197px;height: 320px;display: inline-block;margin-left: 2px;margin-top: 2px;}
+.akcijawrapper div:nth-child(1){margin-left: 0px;}
+.akcijawrapper div:nth-child(3){margin-left: 0px;}
+.akcija{background-image: none;}
+.akcija1{background-image: none;}
+.akcija2{background-image: none;}
+.akcija3{background-image: none;}
+.akcijamobile, .akcijamobile1, .akcijamobile2, .akcijamobile3{ width: 197px;height: auto;display: inline-block;margin-top: 0px;margin-left: 0px;} 
+	/* akcije */
+	
+	/* footer */
+.to_top{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.order_number{display: block;width: 160px;height: 50px;position: relative;margin: auto;margin-top: 40px; margin-bottom: 20px;}
+.order_number h4{font-size: 24px;}
+.order_number p{font-size: 24px;}
+.social_media{height: 80px;width: 110px;margin: auto;margin-top: 20px;position: relative; margin-bottom: 20px;}
+#map{height:330px;width:400px;overflow: hidden;}
+.map_holder{height:375px;width:400px;overflow: hidden;float: none;margin: auto;}
+.adress{height: 54px;width: 400px;margin-top: 0px;float: left; margin-left: 0px;}
+.adress_1{font-size: 32px;float: left;text-align: center;letter-spacing: 4px;margin-left: 10px; margin-top: 11px;}
+.adress_descript{font-size: 24px;float: left;letter-spacing: 4px;margin-top: 19px;margin-left: 0px;}
+.sticker{height: 200px;width: 200px;background-size: cover;position: relative;margin-left: 0px;margin: auto;}
+.footer{height: 820px;}
+	/* footer */
+
+
+		/*basket*/
+.basketContent{border-bottom: 1px solid black;width: 280px;}
+.indexCart{margin-left: 10px;}
+.basketHolder{width: 100%;height: auto;}
+.basketWrapper{width: 280px;height: auto;border: 1px solid black;}
+.basketHeader{display: none;}
+.verticalLine{display: none;}
+.removeFromRow{display: block; width:130px;margin-top: 10px; float: right; font-size: 14px;}
+.fa-times{margin-left: 5px;}
+.sumPerRow{margin-top: 5px;	margin-left: 15px;width: auto;float: left;}
+.twoZeros{float: left; margin-top: 5px;}
+.productInBasket {width: 140px;	height: 150px;display: inline-block;overflow: hidden;}
+.quantityInBasket {width: 140px;height: 150px; margin-left: 0px;} 
+.priceInBasket {display: none;}
+.sumInBasket {width: 100%;height: 30px;	margin-left: 0px;}
+.inputInBasket{margin-left: 36px;margin-top: 50px;}
+.Total{width: 90%;}
+.inTotal{width: 100%;}
+.picturesInBasket{margin-top: 15px;margin-left: 20px;}
+.productName{font-size: 10px;}
+
+
+#orderPopup{width: 240px;margin-top: 120px; height: 390px;}
+#firstnameInput{width: 200px; margin-left: 18px; margin-top: 20px;}
+#phoneNumberInput{width: 200px; margin-left: 18px; margin-top: 20px;}
+#adressInput{width: 200px; margin-left: 18px; margin-top: 20px;}
+#noteInput{width: 200px; margin-left: 18px; margin-top: 20px;}
+#submitButton{width: 205px; margin-left: 18px; margin-top: 20px;}
+.closeButton{margin-top: 70px;margin-right: 10px; cursor: pointer;}
+.closeParagraph{margin-top: 77px;margin-right: 10px;}
+#sumTotalParagraph{font-size: 20px;	float: right;display: block;margin-top: 10px;}
+#popUpButton{margin-left: 175px;}
+	/*basket*/
+	/* Nav Menu */
+
+	
+}
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+	/* Nav Menu */
+.menu h1{font-size: 14px; margin-top: 12px;letter-spacing: 3px;}
+.menu{width: 100%;height: 200px; display: none; position: absolute;}
+.menu div{width: 100%;height: 40px; background-color: black;}
+.menu_holder{width: 100%;height: 280px;background-image: none;}
+.burger_container{display: block; background-color: black;}
+.burger_container img{height: 30px; width: 30px; margin-top: 10px; margin-right: 10px; float: right;}
+
+
+#naruci i{font-size: 19px;}
+#naruci h1{display: block; width: 140px; margin: auto; height: 20px; margin-top: 5px; float: none;}
+
+#basketLink{height: 60px;width: 60px;margin-top: 50px;margin-left: 2px;}
+#basketLink h1{font-size: 12px;margin-left: 5px;}
+#basketLink i{margin-top: 22px;}
+	/* Nav Menu */
+	
+	/* slider */
+.main-slider{margin-top: 0px;}
+#small{display: block;margin-top: 50px;}
+#big{display: none;}
+	/* slider */
+	
+	/* food */
+.foodheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.food{width: 100%;height: auto;}
+.foodheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.logoimgsmall{margin-top: -45px;margin-right: 10px;height: 50px;width: 50px;}
+.logoimg{margin-top: 0px;margin-left: 10px;height: 50px;width: 50px;}
+.foodheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.burgerimg{height: 50px; width: 50px; float: right; margin-right: 10px;}
+.foodwraper{width: 200px;height: auto;margin: auto;margin-top: 0px;}
+.foodcontainer{width: 200px;margin: auto;height: 240px;display: block;margin-left: 0px;margin-top: 5px;}
+
+#burger{height: auto; width:80%; margin-top: 20px; margin-left: 20px;}
+#onion{height:auto; width: 80%; margin-top: 5px; margin-left: 20px;}
+#drpano{height:auto; width:80%; margin-top: 40px; margin-left: 20px;}
+#kobaje{height:auto; width:90%; margin-top: 45px; margin-left: 10px;}
+#krilca{height:auto; width:80%; margin-top: 50px; margin-left: 20px;}
+.fooddescript{width: 200px;margin-top: 180px;}
+.basketNavMenu{margin-top: -50px;}
+
+.shoppingButton{margin-left: 35px;}
+
+.foodName{font-size: 13px;margin-top: 2px;}
+.foodPrice{font-size: 14px;margin-top: -8px;}
+	/* food */
+	
+	/* prilozi */
+
+.priloziheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.priloziheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.priloziheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.prilozi{width: 100%;height: auto;}
+.priloziwraper{width: 200px;height: auto;margin: auto;margin-top: 0px; margin-bottom: 20px;}
+.prilozicontainer{width: 200px;margin: auto;height: 240px;display: block;margin-left: 0px;margin-top: 5px;}
+.prilozicontainer h2{font-size: 14px;margin-top: 12px;}
+.prilozidescript{width: 200px;margin-top: 180px;}
+.prilozi_price{margin-top: -10px;font-size: 14px;}
+.prilozidescript{width: 200px;height: 45px;margin-top: 175px;}
+	/* prilozi */
+	
+	/* piva */
+.beerheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.beerheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.beerheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.beer{width: 100%;height: auto;}
+.beercontainer{width: 200px;height: 320px;display: block;margin-left: 0px;}
+.beercontainer h2{font-size: 14px;margin-top: 12px;}
+.beerdescript{width: 200px;height: 50px;position: absolute;margin-top: 250px;}
+.beerwraper{width: 200px;height: auto;margin: auto;margin-top: 0px; margin-bottom: 20px;}
+#beer1{width:90px;margin-left: 70px;}
+#beer2{width:58px;margin-left: 70px;}
+#beer3{width:58px; margin-top: 10px; margin-left: 70px;}
+#beer4{width: 64px;margin-left: 66px;}
+#beer5{width: 59px;margin-left: 70px;}
+#beer6{width:60px; margin-left: 70px;}
+	/* piva */
+	
+	/* akcije */
+.bigFlyer{display: none;}
+.mobFlyer{display: block;margin-top: 20px !important;width: 90%; margin: auto; margin-bottom: 20px;}
+
+
+.akcijeheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.akcijeheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.akcijeheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.akcije{width: 100%;height: auto;overflow: hidden;}
+.akcijawrapper{width: 200px;height: auto;margin: auto;margin-top: 5px;}
+.akcijawrapper div{width: 200px;height: 320px;display: block;margin-left: -4px;margin-top: 1px;}
+.akcija{background-image: none;}
+.akcija1{background-image: none;}
+.akcija2{background-image: none;}
+.akcija3{background-image: none;}
+.akcijamobile, .akcijamobile1, .akcijamobile2, .akcijamobile3{ width: 200px;height: auto;display: block;margin-top: 10px;margin-left: 3px;} 
+	/* akcije */
+	
+	/* footer */
+.to_top{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.order_number{display: block;width: 160px;height: 50px;position: relative;margin: auto;margin-top: 40px; margin-bottom: 20px;}
+.order_number h4{font-size: 24px;}
+.order_number p{font-size: 24px;}
+.social_media{height: 80px;width: 110px;margin: auto;margin-top: 20px;position: relative; margin-bottom: 20px;}
+#map{height:300px;width:200px;overflow: hidden;}
+.map_holder{float: none;margin: auto; height:360px;width:200px;}
+.adress{height: 50px;width: 200px;margin-top: 0px;margin-left: 0px;}
+.adress_1{font-size: 24px;float: none;text-align: center;letter-spacing: 4px;margin-left: 0px; margin-top: 10px;}
+.adress_descript{font-size: 14px;float: none;letter-spacing: 4px;margin-top: 8px;margin-left: 0px;text-align: center;}
+.sticker{height: 200px;width: 200px;background-size: cover;position: relative;margin-left: 0px;margin: auto;}
+.footer{height: 820px;}
+
+	/*basket*/
+.basketContent{border-bottom: 1px solid black;width: 280px;}
+.indexCart{margin-left: 10px;}
+.basketHolder{width: 100%;height: auto;}
+.basketWrapper{width: 280px;height: auto;border: 1px solid black;}
+.basketHeader{display: none;}
+.verticalLine{display: none;}
+.removeFromRow{display: block; width:130px;margin-top: 10px; float: right; font-size: 14px;}
+.fa-times{margin-left: 5px;}
+.sumPerRow{margin-top: 5px;	margin-left: 15px;width: auto;float: left;}
+.twoZeros{float: left; margin-top: 5px;}
+.productInBasket {width: 140px;	height: 150px; display: inline-block;overflow: hidden;}
+.quantityInBasket {width: 140px;height: 150px; margin-left: 0px;} 
+.priceInBasket {display: none;}
+.sumInBasket {width: 100%;height: 30px;	margin-left: 0px;}
+.inputInBasket{margin-left: 36px;margin-top: 50px;}
+.Total{width: 90%;}
+.inTotal{width: 100%;}
+.picturesInBasket{margin-top: 15px;margin-left: 20px;}
+.productName{font-size: 10px;}
+
+
+#orderPopup{width: 240px;margin-top: 45px; height: 310px; }
+#firstnameInput{width: 200px; height: 30px; margin-left: 10px; margin-top: 10px;}
+#phoneNumberInput{width: 200px; height: 30px;margin-left: 10px; margin-top: 10px;}
+#adressInput{width: 200px; height: 30px;margin-left: 10px; margin-top: 10px;}
+#noteInput{width: 200px; height: 30px;margin-left: 10px; margin-top: 10px;}
+#submitButton{width: 205px; margin-left: 18px; height: 30px;margin-top: 10px; font-size: 16px;}
+.closeButton{margin-top: 10px;margin-right: 10px; cursor: pointer;}
+.closeParagraph{margin-top: 15px;margin-right: 10px;}
+#sumTotalParagraph{font-size: 20px;	float: right;display: block;margin-top: 10px;}
+#popUpButton{margin-left: 175px;}
+	/*basket*/
+	/* footer */
+}
+
+@media only screen and (max-width: 319px) {
+	
+	/* Nav Menu */
+.menu h1{font-size: 14px; margin-top: 12px;letter-spacing: 3px;}
+.menu{width: 100%;height: 200px; display: none; position: absolute;}
+.menu div{width: 100%;height: 40px; background-color: black;}
+.menu_holder{width: 100%;height: 280px;background-image: none;}
+.burger_container{display: block; background-color: black;}
+.burger_container img{height: 30px; width: 30px; margin-top: 10px; margin-right: 10px; float: right;}
+
+
+#naruci i{font-size: 19px;}
+#naruci h1{display: block; width: 140px; margin: auto; height: 20px; margin-top: 5px; float: none;}
+
+#basketLink{height: 60px;width: 60px;margin-top: 50px;margin-left: 2px;}
+#basketLink h1{font-size: 12px;margin-left: 5px;}
+#basketLink i{margin-top: 22px;}
+	/* Nav Menu */
+	
+	/* slider */
+.main-slider{margin-top: 0px;}
+#small{display: block; margin-top: 50px;}
+#big{display: none;}
+	/* slider */
+	
+	/* food */
+.foodheader{width: 100%;height: 60px;  background-size: 150%;background-position: center;}
+.food{width: 100%;height: auto;}
+.foodheader h1{z-index: 5000;margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.logoimgsmall{margin-top: -45px;margin-right: 10px;height: 50px;width: 50px;}
+.logoimg{margin-top: 0px;margin-left: 10px;height: 50px;width: 50px;}
+.foodheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.burgerimg{height: 50px; width: 50px; float: right; margin-right: 10px;}
+.foodwraper{width: 200px;height: auto;margin: auto;margin-top: 10px;}
+.foodcontainer{width: 200px;margin: auto;height: 240px;display: block;margin-left: 0px;margin-top: 5px;}
+/*.foodcontainer h2{font-size: 14px;margin-top: 2px;}*/
+#burger{height: auto; width:80%; margin-top: 20px; margin-left: 20px;}
+#onion{height:auto; width: 70%; margin-top: 15px; margin-left: 25px;}
+#drpano{height:auto; width:80%; margin-top: 40px; margin-left: 20px;}
+#kobaje{height:auto; width:90%; margin-top: 45px; margin-left: 10px;}
+#krilca{height:auto; width:80%; margin-top: 50px; margin-left: 20px;}
+.fooddescript{width: 200px;margin-top: 180px;}
+
+.basketNavMenu{margin-top: -50px;}
+
+.shoppingButton{margin-left: 35px;}
+.foodPrice{margin-top: -5px;}
+.foodName{font-size: 13px;margin-top: 2px;}
+	/* food */
+	
+	/* prilozi */
+
+.priloziheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.priloziheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.priloziheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.prilozi{width: 100%;height: auto;}
+.priloziwraper{width: 200px;height: auto;margin: auto;margin-top: 0px; margin-bottom: 20px;}
+.prilozicontainer{width: 200px;margin: auto;height: 240px;display: block;margin-left: 0px;margin-top: 5px;}
+.prilozicontainer h2{font-size: 14px;margin-top: 12px;}
+.prilozidescript{width: 200px;margin-top: 180px;}
+.prilozi_price{margin-top: -10px;font-size: 14px;}
+.prilozidescript{width: 200px;height: 45px;margin-top: 175px;}
+	/* prilozi */
+	
+	/* piva */
+.beerheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.beerheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.beerheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.beer{width: 100%;height: auto;}
+.beercontainer{width: 200px;height: 320px;display: block;margin-left: 0px;}
+.beercontainer h2{font-size: 14px;margin-top: 12px;}
+.beerdescript{width: 200px;height: 50px;position: absolute;margin-top: 250px;}
+.beerwraper{width: 200px;height: auto;margin: auto;margin-top: 0px;margin-bottom: 20px;}
+#beer1{width:90px;margin-left: 70px;}
+#beer2{width:58px;margin-left: 70px;}
+#beer3{width:58px; margin-top: 10px; margin-left: 70px;}
+#beer4{width: 64px;margin-left: 66px;}
+#beer5{width: 59px;margin-left: 70px;}
+#beer6{width:60px; margin-left: 70px;}
+	/* piva */
+	
+	/* akcije */
+.akcijeheader{width: 100%;height: 60px;background-size: 150%;background-position: center;}
+.akcijeheader h1{margin-left: 10px;margin-top: 10px;font-size: 16px;}
+.akcijeheader p{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+
+
+.akcije{width: 100%;height: 520px;overflow: hidden;}
+.akcijawrapper{width: 200px;height: 400px;margin: auto;margin-top: 10px;/* background-color: red;*/}
+
+
+.bigFlyer{display: none;}
+.mobFlyer{display: block;margin-top: 20px !important;width: 240px; margin: auto;}
+
+
+/*.akcijawrapper div{width: 200px;height: 320px;display: block;margin-left: -4px;margin-top: 1px;}*/
+.akcija{background-image: none;}
+.akcija1{background-image: none;}
+.akcija2{background-image: none;}
+.akcija3{background-image: none;}
+.akcijamobile, .akcijamobile1, .akcijamobile2, .akcijamobile3{ width: 200px;height: auto;display: block;margin-top: 10px;margin-left: 3px;} 
+	/* akcije */
+	
+	/* footer */
+.to_top{margin-left: 10px;margin-top: 10px;font-size: 14px;color: white;}
+.order_number{display: block;width: 160px;height: 50px;position: relative;margin: auto;margin-top: 40px; margin-bottom: 20px;}
+.order_number h4{font-size: 24px;}
+.order_number p{font-size: 24px;}
+.social_media{height: 80px;width: 110px;margin: auto;margin-top: 20px;position: relative; margin-bottom: 20px;}
+#map{height:300px;width:200px;overflow: hidden;}
+.map_holder{margin: auto; height:360px;width:200px; float: none;}
+.adress{height: 50px;width: 200px;margin-top: 0px;margin-left: 0px;}
+.adress_1{font-size: 24px;float: none;text-align: center;letter-spacing: 4px;margin-left: 0px; margin-top: 10px;}
+.adress_descript{font-size: 14px;float: none;letter-spacing: 4px;margin-top: 8px;margin-left: 0px;text-align: center;}
+.sticker{height: 200px;width: 200px;background-size: cover;position: relative;margin-left: 0px;margin: auto;}
+.footer{height: 820px;}
+	/* footer */
+
+	/*basket*/
+.basketContent{border-bottom: 1px solid black;width: 280px;}
+.indexCart{margin-left: 10px;}
+.basketHolder{width: 100%;height: auto;}
+.basketWrapper{width: 280px;height: auto;border: 1px solid black;}
+.basketHeader{display: none;}
+.verticalLine{display: none;}
+.removeFromRow{display: block; width:130px;margin-top: 10px; float: right; font-size: 14px;}
+.fa-times{margin-left: 5px;}
+.sumPerRow{margin-top: 5px;	margin-left: 35px;width: auto;float: left;}
+.twoZeros{float: left; margin-top: 5px;}
+.productInBasket {width: 140px;	height: 150px; display: inline-block; overflow: hidden;}
+.quantityInBasket {width: 140px;height: 150px; margin-left: 0px;} 
+.priceInBasket {display: none;}
+.sumInBasket {width: 100%;height: 30px;margin-left: 0px;}
+.inputInBasket{margin-left: 36px;margin-top: 50px;}
+.Total{width: 90%;}
+.inTotal{width: 100%;}
+.picturesInBasket{margin-top: 15px;margin-left: 20px;}
+.productName{font-size: 10px;}
+	/*basket*/
+
+	/*popup*/
+
+#orderPopup{width: 240px;margin-top: 45px; height: 310px; }
+#firstnameInput{width: 200px; height: 30px; margin-left: 10px; margin-top: 10px;}
+#phoneNumberInput{width: 200px; height: 30px;margin-left: 10px; margin-top: 10px;}
+#adressInput{width: 200px; height: 30px;margin-left: 10px; margin-top: 10px;}
+#noteInput{width: 200px; height: 30px;margin-left: 10px; margin-top: 10px;}
+#submitButton{width: 205px; margin-left: 18px; height: 30px;margin-top: 10px; font-size: 16px;}
+.closeButton{margin-top: 10px;margin-right: 10px; cursor: pointer;}
+.closeParagraph{margin-top: 15px;margin-right: 10px;}
+#sumTotalParagraph{font-size: 20px;	float: right;display: block;margin-top: 10px;}
+#popUpButton{margin-left: 175px;}
+
+    /*popup*/
+
+
+	
+
+}
